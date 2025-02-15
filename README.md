@@ -1,7 +1,7 @@
 
-## Hospital_Emergency_Room_Analysis
+## Hospital Emergency Room Analysis
 
-##### Table of Contents  
+### Table of Contents  
 
 [Project Overview](#1) 
 
@@ -14,7 +14,9 @@
 
 [Key Insights](#6) 
 
+[Summary of Visualizations & Key Findings](#7)
 
+[Recommandations](#8)
 
 <a name="1"/>
 <a name="2"/>
@@ -22,14 +24,17 @@
 
 <a name="5"/>
 <a name="6"/>
-
-
+<a name="7"/>
+<a name="8"/>
 
 ## Project Overview
 In this project,  we will be examining the efficiency and effectiveness of a hospital emergency room. 
 The  goal is to enhance the quality of care provided in the emergency room and ensure that patients receive timely and appropriate treatment.
 ## Data 
-Our  dataset Hospital ER.csv contains 9,216 entries and 11 columns. Below is a breakdown of its structure:
+
+The dataset used in this project is available for download [[here](https://docs.google.com/spreadsheets/d/1neSPTn65RZVu2Bi5b0ljJaOJMqq5O_k_XgjYR2A2YXw/edit?gid=0#gid=0)].
+
+The dataset contains 9,216 entries and 11 columns. Below is a breakdown of its structure:
 
 Columns and Data Types
 
@@ -53,18 +58,18 @@ Columns and Data Types
  
  - patient_waittime (int64) - Time spent waiting in minutes.
  
- - department_referral (object) - Department the patient was referred to (e.g., "General Practice", "Orthopedics").
+ - department_referral (object) - Department the patient was referred to.
   
 
 ## Business Case
 
 A summary of essential metrics:
 
- -  Average Wait Time (Overall & by Department)
+ -  Average Wait Time (Overall & by Department): 
    
   - Median Wait Time
     
- -  Longest & Shortest Wait Time
+ -  Longest & Shortest Wait Time  
    
  -  Percentage of Patients Admitted
    
@@ -72,26 +77,64 @@ A summary of essential metrics:
 
 ## Visualization
 
-My dashboard will include the following key visualizations and metrics to monitor ER wait times.
+The dashboard include the following key visualizations and metrics to monitor ER wait times.
 
-✅ KPIs (Avg. wait time, max wait time, etc.)
+ - Key performance Indicators (Avg. wait time, max wait time, etc.)
 
-✅ Wait time distribution (Histogram)
+ - Wait time distribution (Histogram)
 
-✅ Wait time by department (Bar chart)
+ - Wait time by department (Bar chart)
 
-✅ Peak hours analysis (Line chart)
+ - Peak hours analysis (Line chart)
 
-✅ Satisfaction vs. wait time (Scatter plot)
+ - Satisfaction vs. wait time (Scatter plot)
 
 ## Key Insights
+
+A significant variability in wait times indicates possible inefficiencies.
+
 ER wait time dashboard can help hospitals:
 
-✅ Reduce congestion
+ - Reduce congestion
 
-✅ Improve patient satisfaction
+ - Improve patient satisfaction
 
-✅ Optimize staffing levels
+ - Optimize staffing levels
 
-✅ Provide data-driven decision-making
+ - Provide data-driven decision-making
+
+## Summary of Visualizations &  Findings
+
+1. **Wait Time Distribution (Histogram)** 
+
+Displays how patient wait times are spread across different time intervals.
+
+🔍  The histogram is skewed right, a large portion of patients experience long wait times.
+
+2. **Wait Time by Department (Box Plot)** 
+
+Compares wait times across different departments.
+
+🔍 Certain departments have significantly longer wait times than others.
+
+3. **Wait Time Trend Over Time (Line Chart)** 
+
+Shows daily trends in wait times over time.
+
+🔍 Increasing trends indicate growing patient load or operational issues.
+
+4. **Satisfaction vs. Wait Time (Scatter Plot)** 
+
+Analyzes the relationship between patient satisfaction scores and wait times.
+
+🔍 satisfaction decreases as wait time increases, it emphasizes the need for improvements.
+
+## Recommandations
+
+✅   Departments with high wait times should be optimized.
+
+ ✅  Identifying peak wait time trends can help with staffing adjustments.
+
+✅  Improving long wait times could enhance patient satisfaction.
+
 
