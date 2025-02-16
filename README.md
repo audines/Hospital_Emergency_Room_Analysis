@@ -65,33 +65,32 @@ Columns and Data Types
 
 A summary of essential metrics:
 
- -  Average Wait Time (Overall & by Department): 
+ -  Average Wait Time (Overall): 
    
   - Median Wait Time
     
  -  Longest & Shortest Wait Time  
    
- -  Percentage of Patients Admitted
+ -  Percentage of Patients Admitted by department
    
  -  Satisfaction Score vs. Wait Times
 
 ## Visualization
 
-The dashboard include the following key visualizations and metrics to monitor ER wait times.
+The dashboard avalaible [here](https://public.tableau.com/app/profile/ines.mbonda/viz/HospitalEmergencyRoomDashboard_17396810521090/Dashboard1) include the following key visualizations and metrics to monitor ER wait times.
 
- - Key performance Indicators (Avg. wait time, max wait time, etc.)
+ - Key performance Indicators (Avg. wait time per minute)
 
- - Wait time distribution (Histogram)
+ - Wait time distribution 
 
- - Wait time by department (Bar chart)
+ - Wait time by weekday
 
- - Peak hours analysis (Line chart)
-
- - Satisfaction vs. wait time (Scatter plot)
+ - Satisfaction vs. wait time 
 
 ## Key Insights
 
-A significant variability in wait times indicates possible inefficiencies.
+The Emergency room had 9,216 patients visits and the overall Average Satisfaction Score was 5.47 out of 10. 
+During patient visits, the waiting time before a patient could see a practitioner was 35 minutes on average.
 
 ER wait time dashboard can help hospitals:
 
@@ -105,13 +104,13 @@ ER wait time dashboard can help hospitals:
 
 ## Summary of Visualizations &  Findings
 
-1. **Wait Time Distribution (Histogram)** 
+1. **Wait Time per weekday ** 
 
-Displays how patient wait times are spread across different time intervals.
+Displays how patient wait times are spread across weekday.
 
 🔍  The histogram is skewed right, a large portion of patients experience long wait times.
 
-2. **Wait Time by Department (Box Plot)** 
+2. **Wait Time by Department ** 
 
 Compares wait times across different departments.
 
@@ -123,9 +122,7 @@ Shows daily trends in wait times over time.
 
 🔍 Increasing trends indicate growing patient load or operational issues.
 
-4. **Satisfaction vs. Wait Time (Scatter Plot)** 
-
-Analyzes the relationship between patient satisfaction scores and wait times.
+4. **Satisfaction vs. Wait Time ** 
 
 🔍 satisfaction decreases as wait time increases, it emphasizes the need for improvements.
 
@@ -136,5 +133,3 @@ Analyzes the relationship between patient satisfaction scores and wait times.
  ✅  Identifying peak wait time trends can help with staffing adjustments.
 
 ✅  Improving long wait times could enhance patient satisfaction.
-
-
