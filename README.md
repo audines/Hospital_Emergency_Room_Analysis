@@ -73,7 +73,9 @@ The following Emergency Room wait time dashboard avalaible  [here](https://publi
  - Provide data-driven decision-making
 
 
-![Alt text](Dahboard1.png)
+
+![Dashboard1](https://github.com/user-attachments/assets/c7612203-c5e7-4724-992b-423b0610c772)
+
 
 
 Below is an overview of essential components of the dashboard:
@@ -85,7 +87,6 @@ Below is an overview of essential components of the dashboard:
      - **Gender Distribution**: Visualizing the proportion of male, female, and non-conforming gender patients aids in tailoring patient care services appropriately.
 
      -  **Age Distribution**: Categorizing patients into age groups (e.g., 0–18, 19–30, 31–65, 66 and above) provides insights into the predominant age brackets utilizing ER services.
-   -    **Age Distribution**: Categorizing patients into age groups (e.g., 0–18, 19–30, 31–65, 66 and above) provides insights into the predominant age brackets utilizing ER services.
 
   -   **Race/Ethnicity**: The racial and ethnic composition of patients can inform culturally competent care practices.
 
