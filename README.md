@@ -62,7 +62,7 @@ Data is cleaned and a calculated field is defined in order to group patients acc
 
 ## Visualization
 
-ER wait time dashboard avalaible  [here](https://public.tableau.com/app/profile/ines.mbonda/viz/HospitalEmergencyRoomDashboard_17396810521090/Dashboard1) is important to monitor ER wait times in order to:
+The following Emergency Room wait time dashboard avalaible  [here](https://public.tableau.com/app/profile/ines.mbonda/viz/HospitalEmergencyRoomDashboard_17396810521090/Dashboard1) is important to monitor ER wait times in order to:
 
  - Reduce congestion
 
@@ -72,17 +72,22 @@ ER wait time dashboard avalaible  [here](https://public.tableau.com/app/profile/
 
  - Provide data-driven decision-making
 
+
+![Alt text](Dahboard1.png)
+
+
 Below is an overview of essential components of the dashboard:
 
 1. **Total Number of Patients**: This metric indicates the overall patient volume within the ER over a specified period. This important in resource planning and identifying trends.
 
 2. **Patient Demographics**:
 
-    **Gender Distribution**: Visualizing the proportion of male, female, and non-conforming gender patients aids in tailoring patient care services appropriately.
+     - **Gender Distribution**: Visualizing the proportion of male, female, and non-conforming gender patients aids in tailoring patient care services appropriately.
 
-     **Age Distribution**: Categorizing patients into age groups (e.g., 0–18, 19–30, 31–65, 66 and above) provides insights into the predominant age brackets utilizing ER services.
+     -  **Age Distribution**: Categorizing patients into age groups (e.g., 0–18, 19–30, 31–65, 66 and above) provides insights into the predominant age brackets utilizing ER services.
+   -    **Age Distribution**: Categorizing patients into age groups (e.g., 0–18, 19–30, 31–65, 66 and above) provides insights into the predominant age brackets utilizing ER services.
 
-   **Race/Ethnicity**: The racial and ethnic composition of patients can inform culturally competent care practices.
+  -   **Race/Ethnicity**: The racial and ethnic composition of patients can inform culturally competent care practices.
 
 3. **Average Patient Wait Time**: Monitoring the average duration patients spend waiting before receiving care is crucial for assessing the efficiency of the ER.
 
@@ -96,9 +101,6 @@ Below is an overview of essential components of the dashboard:
 
 9. **Key Performance Indicators (KPIs)**: Incorporating KPIs like the total number of patients, average wait time, and average satisfaction score into the dashboard provides a quick snapshot of ER performance.
 
-
-
-![Alt text](images/example.png)
 
 ## Key Insights
 
