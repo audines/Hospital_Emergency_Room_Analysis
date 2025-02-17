@@ -102,52 +102,28 @@ Below is an overview of essential components of the dashboard:
 
 ## Key Insights
 
-🔍 The Emergency room had 9,216 patients visits and the overall Average Satisfaction Score was 5.47 out of 10. 
+🔍 The Emergency room had 9,216 patients visits and the overall Average Satisfaction Score was 5.47 out of 10.
 
 🔍 March 2020 was the month with the highest satisfaction score, reaching 5.32. October 2020 and April 2019 closely follow with scores of 5.31 and 5.30, respectively.
 
-🔍 During patient visits, the waiting time before a patient could see a practitioner was 35 minutes on average. February 2020 recorded the highest average wait time at 36.67 minutes, closely followed by August 2019 with 36.39 minutes. In contrast, October 2020 had the lowest wait time at 34.05 minutes, closely followed by September 2019 with 34.27 minutes.
+🔍 On average, patients waited 35 minutes before seeing a practitioner during their visits. February 2020 recorded the highest average wait time at 36.67 minutes, closely followed by August 2019 with 36.39 minutes. In contrast, October 2020 had the lowest wait time at 34.05 minutes, closely followed by September 2019 with 34.27 minutes.
 
-🔍 General Practice has the highest number of referrals (1,840),Orthopaedic followed with 995 patients  while the Renal department has the lowest (86).
+🔍 General Practice has the highest number of referrals with 1,840 patients. Orthopaedic followed with 995 patients, while the Renal department has the lowest at 86 patients.
 
-🔍 The three days and times with the highest wait times are 11 pm on Monday (40.39 minutes), 3 am on Wednesday (39.74 minutes), and 10 pm on Friday (39.34 minutes). Conversely, 1 am on Wednesday (29.65 minutes), 9 pm on Saturday (30.39 minutes), and 4 pm on Saturday (30.52 minutes) mark the days with the least wait times.
+🔍 The days and times with the highest wait times are as follows: 11 pm on Monday (40.39 minutes), 3 am on Wednesday (39.74 minutes), and 10 pm on Friday (39.34 minutes). In contrast, the days with the least wait times are 1 am on Wednesday (29.65 minutes), 9 pm on Saturday (30.39 minutes), and 4 pm on Saturday (30.52 minutes).
 
-🔍 The white race visited the hospital more which further indicate that the male gender visited the hospital more often.
+🔍 The white race visited the hospital more, further indicating that the male gender visited the hospital more often.
+
+
 
 ## Recommandations
 
 ✅ Resource Allocation: during peak wait times, particularly on Monday nights, Wednesday early mornings, and Friday nights,
 additional staff  should be deployed  to reduce wait times and prevent staff burnout.
 
-✅Process Improvement: workflows should be streamlined in departments with high referral rates ( General Practice, Orthopedic, and Physiotherapy) to enhance patient throughput.
+✅Process Improvement: workflows should be streamlined in departments with high referral rates (General Practice, Orthopedic, and Physiotherapy) to enhance patient throughput.
 
 ✅ Patient Experience Initiatives: Improving long wait times could enhance patient satisfaction. Investigate reasons for dissatisfaction and implement changes.
 
 ✅  Addressing the specific needs  of different gender groups will ensure an inclusive and responsive healthcare environment. 
 For male patients, improve satisfaction in the renal department (average score of 4.5).  For female patients, address concerns in the Physiotherapy department (average score of 5.29).
-
-
-Reduce Waiting Times
-
-
-
-
-
-The average waiting time before patients can see a practitioner is 35 minutes. Consider streamlining processes, optimizing triage, and allocating resources efficiently to reduce waiting times.
-
-
-
-Implement strategies such as fast-track lanes for less severe cases or using technology (e.g., appointment scheduling apps) to manage patient flow effectively.
-
-
-
-Improve Late-Night Services
-
-
-
-
-
-Since 34% of visits occur during late-night hours (11 PM to 6 AM), focus on maintaining high-quality services during these times by ensuring adequate staffing, maintain cleanliness, and providing timely care even during off-peak hours to enhance patient satisfaction.
-
-
-
