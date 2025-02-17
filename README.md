@@ -73,10 +73,7 @@ The following Emergency Room wait time dashboard avalaible  [here](https://publi
  - Provide data-driven decision-making
 
 
-
 ![Dashboard1](https://github.com/user-attachments/assets/c7612203-c5e7-4724-992b-423b0610c772)
-
-
 
 Below is an overview of essential components of the dashboard:
 
@@ -107,16 +104,24 @@ Below is an overview of essential components of the dashboard:
 
 🔍 The Emergency room had 9,216 patients visits and the overall Average Satisfaction Score was 5.47 out of 10. 
 
-🔍 During patient visits, the waiting time before a patient could see a practitioner was 35 minutes on average.
+🔍 March 2020 was the month with the highest satisfaction score, reaching 5.32. October 2020 and April 2019 closely follow with scores of 5.31 and 5.30, respectively.
 
-🔍 General Practice has the highest number of referrals (1,840), while the Renal department has the lowest (86)
+🔍 During patient visits, the waiting time before a patient could see a practitioner was 35 minutes on average. February 2020 recorded the highest average wait time at 36.67 minutes, closely followed by August 2019 with 36.39 minutes. In contrast, October 2020 had the lowest wait time at 34.05 minutes, closely followed by September 2019 with 34.27 minutes.
+
+🔍 General Practice has the highest number of referrals (1,840),Orthopaedic followed with 995 patients  while the Renal department has the lowest (86).
+
+🔍 The three days and times with the highest wait times are 11 pm on Monday (40.39 minutes), 3 am on Wednesday (39.74 minutes), and 10 pm on Friday (39.34 minutes). Conversely, 1 am on Wednesday (29.65 minutes), 9 pm on Saturday (30.39 minutes), and 4 pm on Saturday (30.52 minutes) mark the days with the least wait times.
 
 🔍 The white race visited the hospital more which further indicate that the male gender visited the hospital more often.
 
 ## Recommandations
 
-✅ Resource Allocation: Deploy additional staff during identified peak hours and days to reduce wait times and prevent staff burnout.
+✅ Resource Allocation: during peak wait times, particularly on Monday nights, Wednesday early mornings, and Friday nights,
+additional staff  should be deployed  to reduce wait times and prevent staff burnout.
 
-✅Process Improvement: Streamline workflows in departments with high referral rates to enhance patient throughput.
+✅Process Improvement: workflows should be streamlined in departments with high referral rates ( General Practice, Orthopedic, and Physiotherapy) to enhance patient throughput.
 
 ✅ Patient Experience Initiatives: Improving long wait times could enhance patient satisfaction.
+
+✅  Addressing the specific needs  of different gender groups will ensure an inclusive and responsive healthcare environment.
+
